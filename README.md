@@ -12,7 +12,9 @@ This project serves as a living document and proposal for a common standard by w
 
 ## Contributing
 
-This is an open source project - discussion and feedback is welcome and encouraged
+This is an open source project - we welcome and encourage discussion and feedback so that we can improve our understanding of what data is important to capture, how to capture it, and how the data matters to different people and organisations. 
+
+Please see our [code of conduct](./CONTRIBUTING.md) if you would like to get involved.
 
 ## TODO
 
@@ -22,6 +24,6 @@ This is an open source project - discussion and feedback is welcome and encourag
 - [ ] add docs for data model using plant UML
   - [ ] add ERD diagrams and adjacent relations for all models
   - [ ] add caveats for different fields, depending on their context (i.e. spreadsheet vs Airtable vs RDB)
-- [ ] add contributing file
+- [x] add contributing file
 
 <!-- LINKS -->

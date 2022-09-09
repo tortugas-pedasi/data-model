@@ -37,9 +37,9 @@ The diagrams in this project are written using the [Mermaid Js][external-mermaid
 
 When adding erDiagrams:
 
-- all fields belonging to the entity are rendered in the diagram
-- only immediately related entities are rendered in the diagram
-- only fields that are important to the relations in the related entities are rendered
+- all fields belonging to the entity should be rendered in the diagram
+- only immediately related entities should be rendered in the diagram
+- related entities should only show fields important to the relation
 
 ## TODO
 
